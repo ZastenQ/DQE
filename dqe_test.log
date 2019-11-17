@@ -1,0 +1,15 @@
+2019-11-17 20:56:33,275 - [root] - INFO - Creating books table
+2019-11-17 20:56:33,307 - [root] - INFO - Checking out a root folder: c:\input\
+2019-11-17 20:56:33,307 - [root] - INFO - A FB2 file was found: Book2.Fb2
+2019-11-17 20:56:33,307 - [root] - INFO - Parsing a book: Book test
+2019-11-17 20:56:33,307 - [root] - INFO - The book was parsed: Book test
+2019-11-17 20:56:33,416 - [root] - INFO - Inserting values into books table: Book test
+2019-11-17 20:56:33,603 - [root] - INFO - Creating stats table: stats_1
+2019-11-17 20:56:33,603 - [root] - INFO - Inserting values into stats table: stats_1
+2019-11-17 20:56:33,791 - [root] - INFO - A FB2 file was found: Example.Fb2
+2019-11-17 20:56:33,807 - [root] - INFO - Parsing a book: Цветы для Элджернона
+2019-11-17 20:56:33,807 - [root] - INFO - The book was parsed: Цветы для Элджернона
+2019-11-17 20:56:33,916 - [root] - INFO - Inserting values into books table: Цветы для Элджернона
+2019-11-17 20:56:34,103 - [root] - INFO - Creating stats table: stats_2
+2019-11-17 20:56:34,103 - [root] - INFO - Inserting values into stats table: stats_2
+2019-11-17 20:56:34,291 - [root] - INFO - The destination folder scanning was finished
