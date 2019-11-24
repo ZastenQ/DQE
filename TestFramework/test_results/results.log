@@ -1,0 +1,12 @@
+
+
+Testing of C:\Users\Chulo\PycharmProjects\DQE HW\TestFramework\test_data\smoke_tests.json was started
+
+
+Test case 'Test 'books' table'
+PASS. Result is '2252' as expected
+	Query: SELECT number_of_paragraph FROM books WHERE book_name = 'Book test'
+
+Test case 'Test 'stats' table'
+PASS. Result is '1' as expected
+	Query: SELECT s.count FROM stats_1 s WHERE word = 'test'

@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test 'books' table",
+      "query": "SELECT number_of_paragraph FROM books WHERE book_name = 'Book test'",
+      "expected": 2252
+    },
+    {
+      "name": "Test 'stats' table",
+      "query": "SELECT s.count FROM stats_1 s WHERE word = 'test'",
+      "expected": 1
+    }
+  ]
+}

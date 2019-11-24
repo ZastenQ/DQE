@@ -1,0 +1,9 @@
+{
+  "dev": {
+    "database": "C:\\Users\\Chulo\\PycharmProjects\\DQE HW\\dqe_test.db",
+    "test_data_folder": "C:\\Users\\Chulo\\PycharmProjects\\DQE HW\\TestFramework\\test_data"
+  },
+
+  "uat": {
+    }
+}
